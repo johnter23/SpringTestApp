@@ -2,4 +2,4 @@
 
 set -e
 
-gradlew build
+/var/lib/cloudbees-jenkins-distribution/workspace/SpringTestApp_master/gradlew build
