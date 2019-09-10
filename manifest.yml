@@ -1,5 +1,3 @@
 ---
 applications: 
  -name: SpringTestApp
-  memory: 512M
-  instances: 1
