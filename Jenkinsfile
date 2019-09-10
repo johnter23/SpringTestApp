@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('Build with Gradle') {
+    stage('Gradle Build') {
       steps {
-        sh 'gradlew build'
+        sh './jenkins/build.sh'
       }
     }
   }
