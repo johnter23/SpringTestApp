@@ -1,3 +1,4 @@
 ---
 applications: 
  - name: SpringTestApp
+   path: /var/lib/cloudbees-jenkins-distribution/workspace/SpringTestApp_master/build/*.jar
