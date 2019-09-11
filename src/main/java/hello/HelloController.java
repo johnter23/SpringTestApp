@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String index() {
-        return "Pipeline Update!";
+        return "Pipeline Update3";
     }
 
 }
