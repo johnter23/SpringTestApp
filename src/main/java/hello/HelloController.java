@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String index() {
-        return "Testing Code Update Right Now";
+        return "Update Now Commit";
     }
 
 }
