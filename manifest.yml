@@ -1,4 +1,4 @@
 ---
 applications: 
  - name: SpringTestApp
-   path: /var/lib/cloudbees-jenkins-distribution/workspace/SpringTestApp_master/build/libs/gs-spring-boot-0.1.0.jar
+   path: http://lspcf002.hms.hmsy.com:8040/artifactory/test/myjars/build/libs/UCEP-ELLI-API.jar
